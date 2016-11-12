@@ -1,0 +1,1 @@
+# training_bullet_2016-11-12_PHP7_RAW_BOOTSTRAP
