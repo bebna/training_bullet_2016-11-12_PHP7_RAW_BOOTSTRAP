@@ -1,0 +1,16 @@
+{
+    "name": "vendor/2016-11-12-p-h-p7-r-a-w-b-o-o-t-s-t-r-a-p",
+    "description": "Description of project 2016-11-12_PHP7_RAW_BOOTSTRAP.",
+    "authors": [
+        {
+            "name": "bebna",
+            "email": "mail@bebna.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bullet\\": "src/Bullet/"
+        }
+    }
+}
